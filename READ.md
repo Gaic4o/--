@@ -33,3 +33,11 @@ controller -> service -> repository -> entity
 언어들은 대부분 장점들을 가져와서 만듬.
 언어들이 다 서로서로 참고 node spring nest 나 서로서로 해서 최적의 구조가 잡힘.
 
+
+nest g mo workspaces 모듈 추가 
+nest g co users 이런 식으로 테스트코드, 서비스 추가 컨틀ㄹ
+
+
+Body, Query, Param 
+
+ JoinRequestDto - 데이터를 전달하는 object 
